@@ -6,8 +6,8 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 # Credenciales de Twitter
-username = 'El_Infunabl3' #usuario twitter
-password = '149)/SmB<6' #contraseña twitter
+username = '' #usuario twitter
+password = '' #contraseña twitter
 
 # URL del tweet
 tweet_url = 'https://x.com/Cooperativa/status/1792170942661046686'

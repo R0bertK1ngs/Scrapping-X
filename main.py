@@ -6,10 +6,6 @@ import os
 from cookies import save_cookies, load_cookies
 from twitter_scraper import login_twitter, Extraer_Comentarios
 
-'''
-# Minero
-minero = 'Robert Reyes'
-'''
 
 # Ruta para almacenar las cookies
 cookies_path = 'twitter_cookies.pkl'

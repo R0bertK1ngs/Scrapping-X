@@ -76,10 +76,3 @@ Este archivo contiene las dependencias necesarias para ejecutar el proyecto.
 
 Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para mejoras y correcciones.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-## Contacto
-
-Para preguntas o soporte, por favor contacta a [tu_email@dominio.com](mailto:tu_email@dominio.com).

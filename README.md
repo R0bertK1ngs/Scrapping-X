@@ -14,8 +14,8 @@ Este proyecto es una herramienta para realizar scraping de comentarios en public
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
-    cd tu_repositorio
+    git clone https://github.com/tu_usuario/tu_repositorio.git](https://github.com/R0bertK1ngs/Scrapping-X
+    cd Scrapping-X
     ```
 
 2. Instala las dependencias:

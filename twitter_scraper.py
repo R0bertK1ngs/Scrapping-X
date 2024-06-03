@@ -69,7 +69,7 @@ def Extraer_Comentarios(driver, tweet_url,minero,id_url):
             break
 
     body = driver.find_element(By.TAG_NAME, 'body')
-    for _ in range(15):  # Ajusta el rango según la cantidad de comentarios
+    for _ in range(40):  # Ajusta el rango según la cantidad de comentarios
         body.send_keys(Keys.PAGE_DOWN)
         time.sleep(1)
 

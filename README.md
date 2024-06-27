@@ -71,6 +71,7 @@ Este archivo contiene las dependencias necesarias para ejecutar el proyecto.
 2. Ingresa la URL del tweet y el nombre del minero en la interfaz gráfica.
 
 3. Haz clic en "Iniciar Scraping".
+4. Loguear su cuenta de X para que el programa guarde de las cookies sus credenciales de usuario y así no tener que loguearse de nuevo cada vez que inicie el progrma o haga scrapping de una url
 
 ## Contribución
 

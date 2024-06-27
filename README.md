@@ -72,6 +72,7 @@ Este archivo contiene las dependencias necesarias para ejecutar el proyecto.
 
 3. Haz clic en "Iniciar Scraping".
 4. Loguear su cuenta de X para que el programa guarde de las cookies sus credenciales de usuario y así no tener que loguearse de nuevo cada vez que inicie el progrma o haga scrapping de una url
+5. Si ingreso una Url de un Twitt ya scrapeado anteriormente, la ventana de chrome se cerrara automaticamente. Ingresar otra url para proceder
 
 ## Contribución
 
